@@ -11,7 +11,7 @@ const Hero = () => {
           I am a Pre-Final Year Computer Science Engineering Student and a
           Aspiring MERN Stack Developer
         </p>
-        <a href="https://drive.google.com/file/d/1nrBHcE4X1MpYE26rU2uBRi6fgXFlLK28/view?usp=sharing" target="blank" className={styles.resumeBtn}>
+        <a href="https://drive.google.com/file/d/1_uC83ncZHxSjlAB2PaV8SWaGnJLCDQyD/view?usp=drive_link" target="blank" className={styles.resumeBtn}>
           Download CV
         </a>
       </div>
