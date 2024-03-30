@@ -1,0 +1,17 @@
+[
+    {
+      "course": "B.Tech Computer Science Engineering",
+      "organisation": "YCCE",
+      "startDate": "Nov, 2022",
+      "endDate": "Present",
+      "imageSrc": "history/yccelogo.png"
+    },
+    {
+      "course": "Diploma In Computer Engineering",
+      "organisation": "Anjuman Polytechnic",
+      "startDate": "Aug, 2019",
+      "endDate": "Sep, 2022",
+      "imageSrc": "history/apnlogo.png"
+    }
+ 
+  ]

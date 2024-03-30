@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Programming Quiz",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["XML", "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Unit Conversion App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["XML", "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Spotify Clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
