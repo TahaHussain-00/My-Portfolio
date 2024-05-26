@@ -14,10 +14,10 @@
       "source": "https://github.com/TahaHussain-00/Unit-Conversion-App"
     },
     {
-      "title": "Spotify Clone",
+      "title": "Password Generator",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["HTML", "CSS"],
-      "source": "https://github.com/TahaHussain-00/Spotify-Clone"
+      "skills": ["HTML", "CSS","JavaScript"],
+      "source": "https://tahahussain-00.github.io/Password-Generator/"
     }
   ]
