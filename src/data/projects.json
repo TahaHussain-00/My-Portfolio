@@ -3,15 +3,15 @@
       "title": "Programming Quiz",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["XML", "Java"],
+      "skills": ["XML", "Java","SQlite"],
       "source": "https://github.com/TahaHussain-00/Programming-Quiz"
     },
     {
-      "title": "Unit Conversion App",
+      "title": "Codify",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["XML", "Java"],
-      "source": "https://github.com/TahaHussain-00/Unit-Conversion-App"
+      "skills": ["React", "Tailwind CSS","Codemirror"],
+      "source": "https://webcodecompiler.netlify.app/"
     },
     {
       "title": "Password Generator",
