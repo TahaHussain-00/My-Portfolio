@@ -1,23 +1,23 @@
 [
-    {
-      "title": "Programming Quiz",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["XML", "Java","SQlite"],
-      "source": "https://github.com/TahaHussain-00/Programming-Quiz"
-    },
-    {
-      "title": "Codify",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Tailwind CSS","Codemirror"],
-      "source": "https://webcodecompiler.netlify.app/"
-    },
-    {
-      "title": "Password Generator",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["HTML", "CSS","JavaScript"],
-      "source": "https://tahahussain-00.github.io/Password-Generator/"
-    }
-  ]
+  {
+    "title": "Programming Quiz",
+    "imageSrc": "projects/project.png",
+    "description": "An engaging Android app offering programming quizzes to enhance coding skills and knowledge.",
+    "skills": ["XML", "Java", "SQlite"],
+    "source": "https://github.com/TahaHussain-00/Programming-Quiz"
+  },
+  {
+    "title": "Codify",
+    "imageSrc": "projects/project.png",
+    "description": "An online platform for compiling and executing HTML, CSS, and JavaScript code in real-time.",
+    "skills": ["React", "Tailwind CSS","codemirror"],
+    "source": "https://webcodecompiler.netlify.app/"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/project.png",
+    "description": "A simple tool for generating strong, random passwords for improved security.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://tahahussain-00.github.io/Password-Generator/"
+  }
+]
