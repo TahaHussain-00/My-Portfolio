@@ -10,7 +10,7 @@
     "title": "Codify",
     "imageSrc": "projects/project.png",
     "description": "An online platform for compiling and executing HTML, CSS, and JavaScript code in real-time.",
-    "skills": ["React", "Tailwind CSS","codemirror"],
+    "skills": ["React", "Tailwind CSS","Codemirror"],
     "source": "https://webcodecompiler.netlify.app/"
   },
   {
