@@ -4,6 +4,7 @@ import { getImageUrl } from "../../utlis";
 import styles from  './Projects.module.css';
 
 const Projects = () => {
+  
   return (
     <section className={styles.container} id="Projects">
       <h2 className={styles.title}>Projects</h2>

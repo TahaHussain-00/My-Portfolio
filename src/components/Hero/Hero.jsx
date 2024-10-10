@@ -8,8 +8,8 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Taha Hussain</h1>
         <p className={styles.description}>
-          I am a Pre-Final Year Computer Science Engineering Student and a
-          Aspiring MERN Stack Developer
+          I am a Final Year Computer Science Engineering Student and a
+          Aspiring MERN Stack Developer 
         </p>
         <a href="https://drive.google.com/file/d/13B3QYSN6YnqAgWlmCEj9flc82vqu561E/view?usp=sharing" target="blank" className={styles.resumeBtn}>
           Download CV
